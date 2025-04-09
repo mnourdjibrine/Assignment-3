@@ -60,7 +60,7 @@ body {
 
 /* header Image */
 .header-img {
-  width: 100%;
+  width: 50%;
   height: 250px;
   object-fit: cover;
   margin-bottom: 20px;
